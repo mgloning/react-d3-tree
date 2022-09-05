@@ -1,13 +1,13 @@
 {
   "name": "react-d3-tree",
-  "version": "3.3.4",
+  "version": "0.9.0",
   "description": "React component to create interactive D3 tree hierarchies",
-  "author": "Ben Kremer",
+  "author": "Mike Gloning ((https://mgloning.github.io/), based on the excellent work of Ben Kremer",
   "license": "MIT",
+  "homepage": "https://github.com/mgloning/react-d3-tree-ext.git",
   "bugs": {
-    "url": "https://github.com/bkrem/react-d3-tree/issues"
+    "url": "https://github.com/mgloning/react-d3-tree-ext/issues"
   },
-  "homepage": "https://github.com/bkrem/react-d3-tree",
   "files": [
     "lib"
   ],
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bkrem/react-d3-tree.git"
+    "url": "https://github.com/mgloning/react-d3-tree-ext.git"
   },
   "keywords": [
     "react",
